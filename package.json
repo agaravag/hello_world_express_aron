@@ -1,0 +1,19 @@
+{
+  "name": "hello_world_express_aron",
+  "version": "0.0.0",
+  "description": "hello world express aron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agaravag/hello_world_express_aron"
+  },
+  "author": "Aron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agaravag/hello_world_express_aron/issues"
+  },
+  "homepage": "https://github.com/agaravag/hello_world_express_aron"
+}
