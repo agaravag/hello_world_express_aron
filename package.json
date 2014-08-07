@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/agaravag/hello_world_express_aron/issues"
   },
-  "homepage": "https://github.com/agaravag/hello_world_express_aron"
+  "homepage": "https://github.com/agaravag/hello_world_express_aron",
+  "dependencies": {
+    "express": "^4.8.1"
+  }
 }
